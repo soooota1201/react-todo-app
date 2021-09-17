@@ -22,3 +22,5 @@ Button.propTypes = {
   color: PropTypes.string,
   onClick: PropTypes.func
 }
+
+export default Button
